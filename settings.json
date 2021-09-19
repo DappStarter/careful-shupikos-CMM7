@@ -1,0 +1,14 @@
+{
+    "name": "Le Dessert",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Le Dessert",
+        "/category/asset_value_tracking/core-token/symbol": "DSR",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "1000000"
+    }
+}
